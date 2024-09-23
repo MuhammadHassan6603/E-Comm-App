@@ -1,0 +1,56 @@
+const appname = "E COMM";
+const appversion = "Version 1.0.0";
+const credits = "@Muhammad Hassan";
+const email = "Email";
+const emailHint = "admin@admin.com";
+const password = "Password";
+const passwordHint = "*******";
+const retypePassword = "Retype Password";
+const name = "Name";
+const nameHint = "Muhammad Hassan";
+const forgerPass = "Forget Password";
+const login = "Log in";
+const signup = "Sign up";
+const createNewAccount = "or, create a new account";
+const loginwith = "Log in with";
+const privacyPolicy = "Privacy Policy";
+const termsAndCond = "Terms and Conditions";
+const alreadyAccount = "Already have an account? ";
+const home = "Home",
+    categories = "Categories",
+    cart = "Cart",
+    account = "Account";
+const searchAnything = "Search Anything",
+    todaydeal = "Today's Deal",
+    flashsale = "Flash Sale",
+    brand = "Brand",
+    topSeller = "Top Sellers",
+    topCategories = "Top Categories",
+    womenDress="Women Dress",
+    girlsWatches="Girls Watches",
+    mobilePhone="Mobile Phones",
+    boysGlasses="Boys Glasses",
+    tShirts="TShirts",
+    featuredProduct="Featured Products",
+    girlsDress="Girls Dresses",
+    featuredCategories = "Featured Categories";
+
+const womenClothing="Women Clothing",
+menClothingFashion="Men Clothing Fashion",
+compAccess="Computer & Accessories",
+autoMobile="Automobile",
+kidtoys="Kids Toys",
+sports="Sports",
+jewelery="Jewelery",
+cellphone="Cellphone & Tab",
+furniture="Furniture",
+video='Video',
+reviews='Reviews',
+sellerPolicy='Seller Policy',
+returnPolicy='Return Policy',
+supportPolicy='Support Policy',
+productsyoumayalsolike='Products you may also like';
+
+const wishlist="My Wishlist",orders="My Orders",messages="Messages";
+const loggedIn="Logged in Successfully";
+const loggedout="Logged out Successfully",oldpass='Old Password',newpass='New Password';
